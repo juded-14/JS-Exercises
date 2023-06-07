@@ -100,6 +100,8 @@ the result to the user.
 
 `parseFloat`, `isNaN`, `if/else`, `alert`, `prompt`
 
+## JavaScript Features/Functions
+
 ```javascript
 // An object in JavaScript
 let item = {
