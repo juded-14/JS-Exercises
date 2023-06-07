@@ -90,11 +90,11 @@ program displays the converted temperature.
 
 1. Define a function to convert temperatures. This function should take a
    temperature and a unit as parameters, and return the converted temperature.
-2. Ask the user to input a
-
-temperature. 3. Ask the user to input a unit to convert to. 4. Pass the inputted
-temperature and unit to the conversion function and store the result. 5. Display
-the result to the user.
+2. Ask the user to input a temperature.
+3. Ask the user to input a unit to convert to.
+4. Pass the inputted temperature and unit to the conversion function and store
+   the result.
+5. Display the result to the user.
 
 ### JavaScript features/functions used:
 
